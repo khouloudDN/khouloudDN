@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning new technologies
 - 🙆‍♀️ I’m looking to collaborate with other developers so i can learn more and more
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 💻 All of my projects are available at [https://khoulouddn.github.io/khouloud/](khouloud.github.io)
+- 💻 All of my projects are available at [https://khoulouddn.github.io/khouloud/](https://khoulouddn.github.io/khouloud/)
 - 🥰 Fun fact: I enjoy reading and photography
 
 <h3 align="left">Connect with me:</h3>
